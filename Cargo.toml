@@ -17,3 +17,6 @@ path = "src/bin/quiz_1/rust_quiz_1.rs"
 [[bin]]
 name = "quiz-2"
 path = "src/bin/quiz_2/rust_quiz_2.rs"
+[[bin]]
+name = "quiz-3"
+path = "src/bin/quiz_3/rust_quiz_3.rs"
